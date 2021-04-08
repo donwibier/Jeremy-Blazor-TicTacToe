@@ -1,15 +1,16 @@
 {
-  "name": "JeremyBKE",
-  "short_name": "JeremyBKE",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#03173d",
-  "icons": [
-    {
-      "src": "icon-512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ]
+    "version": "1.0",
+    "name": "Jeremies Boter Kaas en Eieren",
+    "short_name": "JeremyBKE",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#03173d",
+    "icons": [
+        {
+            "src": "icon-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
 }
